@@ -1,0 +1,24 @@
+{
+  "name": "threesy",
+  "version": "1.0.0",
+  "description": "Threesy is a library that uses D3 to help you make charts easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threesy/threesy.git"
+  },
+  "keywords": [
+    "d3",
+    "charts",
+    "threesy"
+  ],
+  "author": "Tejen Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/threesy/threesy/issues"
+  },
+  "homepage": "https://github.com/threesy/threesy#readme"
+}

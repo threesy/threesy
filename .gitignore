@@ -1,0 +1,9 @@
+# macOs
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+
+node_modules
+bower_components
