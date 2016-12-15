@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/threesy/threesy/issues"
   },
-  "homepage": "https://github.com/threesy/threesy#readme"
+  "homepage": "https://github.com/threesy/threesy#readme",
+  "dependencies": {
+    "d3": "^4.4.0"
+  }
 }
